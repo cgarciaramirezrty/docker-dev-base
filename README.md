@@ -9,7 +9,7 @@ Docker Development Base Script
 # Init/Setup
 
 1. Go to project root directory: `cd path/to/docker-dev-base`
-2. `./dockdev install`: Install required software and common configurations.
+2. `./dockdev setup`: Install required software and common configurations.
 3. `./dockdev build`: Build unique image.
 4. `./dockdev run`: Run first init, import projects, configurations...
 
